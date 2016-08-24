@@ -246,7 +246,7 @@ hi def link mipsNumber         Number
 hi def link mipsString         String
 hi def link mipsLabel          Label
 hi def link mipsRegister       Identifier
-hi def link mipsDirective      Type
+hi def link mipsDirective      Macro
 hi def link mipsInstruction    Statement
 
 let b:current_syntax = "mips"
